@@ -1,0 +1,52 @@
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_scout.resources
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Scout.resources
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.departments.resources
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_HR.resources
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HR.resources
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_education.resources
+C:\Users\A.N\source\repos\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.education.resources
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_education.resources
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_HR.resources
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_scout.resources
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.departments.resources
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.education.resources
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HR.resources
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Scout.resources
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\A.N\Desktop\data\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_education.resources
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_HR.resources
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.add_scout.resources
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.departments.resources
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.education.resources
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.HR.resources
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Scout.resources
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Body\Desktop\computer science\system\system project\system project\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
